@@ -2,3 +2,4 @@ Project Plan
 1. Angular
 2. node.js
 3. DB: AWS RDS
+4. Api Gateway
